@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  resume_lock:
+  flutter_resume_lock:
     path: ../
 
 dev_dependencies:

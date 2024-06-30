@@ -1,6 +1,6 @@
 import 'package:flutter/widgets.dart';
 
-import '../resume_lock.dart';
+import '../flutter_resume_lock.dart';
 import 'action.dart';
 
 abstract class ResumeLockDelegate {
